@@ -1,6 +1,6 @@
 # Cool Notepad
 
-Welcome to **Cool Notepad**! This is a modern, feature-rich text editor built using Python's Tkinter library. Whether you're jotting down quick notes or writing extensive documents, Cool Notepad provides a simple yet powerful platform to enhance your productivity.
+Welcome to **Cool Notepad**! This is a beginner-friendly text editor built using Python's Tkinter library. Whether you're jotting down quick notes or writing extensive documents, Cool Notepad provides a simple yet powerful platform to enhance your productivity.
 
 ## Features
 
